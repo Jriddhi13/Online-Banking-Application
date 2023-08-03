@@ -45,8 +45,8 @@
                 <div class="row">
                   <div class="col-lg-12  ">
                     <div class="our-text">
-                      <h2>Welcome to Sai's Banking System</h2>
-                      <p> This is my submission for my Internship project at The Sparks Foundation.<br> Click on the Transfer amount button if you want to transfer money from pre-existing accounts.<br> Click on transactions button to view the previous transactions.</p>
+                      <h2>Welcome to Online Banking System</h2>
+                      <p> Click on the Transfer amount button if you want to transfer money from pre-existing accounts.<br> Click on transactions button to view the previous transactions.</p>
                       <div class="butns">
                         <a href="viewusers.php" class="about-btn" role="button">Transfer amount</a>
                         <a href="transactions.php" class="work-btn" role="button">View transactions</a>
